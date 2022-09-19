@@ -7,5 +7,8 @@ font-weight: normal;
 text-decoration: none;
 display: flex;
 padding: 0;
-list-style: none;
+
+}
+.footer__column-link:hover{
+  color: #2f80ed
 }

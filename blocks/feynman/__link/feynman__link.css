@@ -1,4 +1,4 @@
-.faynman__link{
+.feynman__link{
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -6,4 +6,8 @@
   top:50%;
   right: 48px;
   text-decoration: none;
+  color: #2f80ed;
+}
+.feynman__link:hover{
+  opacity: 50%;
 }
